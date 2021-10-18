@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T18:44:25.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="oQIYQH31sOFp4-KAGuCd" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T18:49:16.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="sgbt0SVZtmiDCC74mrph" version="15.5.5" type="github">
   <diagram id="jZHbTq9a4xg0SW-xgDGg" name="Page-1">
-    <mxGraphModel dx="2391" dy="2041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1747" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,7 +182,7 @@
           <mxGeometry x="540" y="120" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lyBfD_pUg362yWcNQcaV-105" value="PERTENCE" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="720" y="160" width="90" height="60" as="geometry" />
+          <mxGeometry x="715" y="200" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lyBfD_pUg362yWcNQcaV-106" value="CONTEM&lt;br&gt;produto-compra" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="390" y="200" width="150" height="60" as="geometry" />
@@ -204,6 +204,26 @@
         </mxCell>
         <mxCell id="lyBfD_pUg362yWcNQcaV-117" value="descricao" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="759" y="590" width="81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lyBfD_pUg362yWcNQcaV-125" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="91" as="sourcePoint" />
+            <mxPoint x="250" y="91" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lyBfD_pUg362yWcNQcaV-126" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="lyBfD_pUg362yWcNQcaV-125">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lyBfD_pUg362yWcNQcaV-129" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="91" as="sourcePoint" />
+            <mxPoint x="410" y="91" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lyBfD_pUg362yWcNQcaV-130" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;fontSize=12;" connectable="0" vertex="1" parent="lyBfD_pUg362yWcNQcaV-129">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-11" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
